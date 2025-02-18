@@ -13,8 +13,7 @@ I have been working at **Smart Village Company** for **more than 4 years** as a 
 - 🔹 **Version Control & CI/CD:** Git, GitHub Actions  
 
 ## 🏆 Experience & Projects  
-I have worked on various projects, including:  
-- **E-commerce platforms** with dynamic UI components  
+I have worked on various projects, including:   
 - **Dashboard applications** with data visualization (Chart.js, D3.js)  
 - **Specialized web applications** for businesses, ensuring high performance and accessibility  
 
