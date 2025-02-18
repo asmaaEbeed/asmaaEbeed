@@ -19,7 +19,7 @@ I have worked on various projects, including:
 - **Specialized web applications** for businesses, ensuring high performance and accessibility  
 
 Check out my portfolio for more details:  
-🔗 [https://asmaaebeed.github.io/portfolio/]  
+🔗 https://asmaaebeed.github.io/portfolio/
 
 ## 📫 Let's Connect  
 I’m always open to collaboration and new opportunities. Feel free to reach out!  
