@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Asmaa Ebeed  
 
-<!--
-**asmaaEbeed/asmaaEbeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I am a **Front-End Developer** with over **4 years** of experience, specializing in building interactive and user-friendly web applications.  
 
-Here are some ideas to get you started:
+I have been working at **Smart Village Company** for **more than 4 years** as a **Front-End Developer**, with the last **2 years** focused on **React.js development**. My expertise includes crafting scalable and maintainable web applications with modern UI/UX principles.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills & Technologies  
+- 🔹 **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript  
+- 🔹 **Frameworks & Libraries:** React.js, Redux, Tailwind CSS, Bootstrap  
+- 🔹 **Tools & Platforms:** Git, GitHub, Webpack, Vite, Postman  
+- 🔹 **APIs & Backend Integration:** RESTful APIs, JSON, Axios  
+- 🔹 **Version Control & CI/CD:** Git, GitHub Actions  
+
+## 🏆 Experience & Projects  
+I have worked on various projects, including:  
+- **E-commerce platforms** with dynamic UI components  
+- **Dashboard applications** with data visualization (Chart.js, D3.js)  
+- **Specialized web applications** for businesses, ensuring high performance and accessibility  
+
+Check out my portfolio for more details:  
+🔗 [https://asmaaebeed.github.io/portfolio/]  
+
+## 📫 Let's Connect  
+I’m always open to collaboration and new opportunities. Feel free to reach out!  
+📧 Email: [eng.asmaaebeed@gmail.com]  
+🔗 LinkedIn: [https://www.linkedin.com/in/asmaa-ebeed/]  
