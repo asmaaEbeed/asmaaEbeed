@@ -23,5 +23,5 @@ Check out my portfolio for more details:
 
 ## 📫 Let's Connect  
 I’m always open to collaboration and new opportunities. Feel free to reach out!  
-📧 Email: [eng.asmaaebeed@gmail.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/asmaa-ebeed/]  
+📧 Email: eng.asmaaebeed@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/asmaa-ebeed/
