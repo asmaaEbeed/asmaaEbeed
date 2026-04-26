@@ -7,7 +7,7 @@ I have been working at **Smart Village Company** for **more than 4 years** as a 
 
 ## 💡 Skills & Technologies  
 - 🔹 **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript  
-- 🔹 **Frameworks & Libraries:** React.js, Redux, Tailwind CSS, Bootstrap  
+- 🔹 **Frameworks & Libraries:** Next.js, React.js, Redux, Tailwind CSS, Bootstrap  
 - 🔹 **Tools & Platforms:** Git, GitHub, Webpack, Vite, Postman  
 - 🔹 **APIs & Backend Integration:** RESTful APIs, JSON, Axios  
 - 🔹 **Version Control & CI/CD:** Git, GitHub Actions  
