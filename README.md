@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 I am a **Front-End Developer** with over **4 years** of experience, specializing in building interactive and user-friendly web applications.  
 
-I have been working at **Smart Village Company** for **more than 4 years** as a **Front-End Developer**, with the last **2 years** focused on **React.js development**. My expertise includes crafting scalable and maintainable web applications with modern UI/UX principles.  
+I have been working at **Smart Village Company** for **more than 6 years** as a **Front-End Developer**, with the last **4 years** focused on **React.js development**. My expertise includes crafting scalable and maintainable web applications with modern UI/UX principles.  
 
 ## 💡 Skills & Technologies  
 - 🔹 **Languages:** JavaScript (ES6+), HTML5, CSS3, TypeScript  
